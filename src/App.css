@@ -5,7 +5,7 @@ body {
   padding: 0;
   display: flex;
   justify-content: center;
-  align-items: center;
+  /* align-items: center; */
   min-height: 100vh;
 }
 
@@ -23,6 +23,7 @@ body {
   height: 200px;
   margin-bottom: 20px;
   border-radius: 5px;
+  /* border: 2px solid yellow; */
   resize: none;
 }
 
